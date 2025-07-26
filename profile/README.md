@@ -1,1 +1,1 @@
-$HOME/.bs/blubber-studios.md
+echo "export PATH=$HOME/.bs/blubber-studios" >> ~/.zshrc

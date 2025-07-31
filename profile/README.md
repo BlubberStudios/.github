@@ -1,4 +1,5 @@
-![Alt Text]([https://github.com/BlubberStudios/silly_seal/blob/main/demo.gif])
+![Alt Text](https://github.com/BlubberStudios/silly_seal/blob/main/demo.gif?raw=true)
+
 
 
 echo 'export PATH=$HOME/.bs/blubber-studios' >> ~/.zshrc 

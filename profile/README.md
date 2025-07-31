@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/BlubberStudios/silly_seal/blob/main/demo.gif?raw=true)
+![Alt Text](https://github.com/BlubberStudios/silly_seal/blob/73c8675da8fe7caa632ec2ff285177a7fbeff06c/ani.gif)
 
 
 
